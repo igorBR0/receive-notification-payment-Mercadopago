@@ -34,7 +34,7 @@ This project is a way to use to receive payment notification from the MERCADO PA
    (https://github.com/mercadopago/sdk-php)
 ✌✌
 ## 🚀 Terceiro Passo
-   - Você precisará criar dois arquivos, um para notificação e outro para criar o pagamento, no meu caso, um create: **not.php para notificação e pag.php para criação de pagamento personalizado.**
+   - Você precisará criar dois arquivos, um para notificação e outro para criar o pagamento, no meu caso, criei: **not.php para notificação e pag.php para criação de pagamento personalizado.**
 ✌✌
 ## 🚀 Quarto Passo
    - Copie repositórios, edite os arquivos com **Seu Token** e receba as notificações em formato json.

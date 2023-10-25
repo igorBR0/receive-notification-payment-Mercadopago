@@ -19,14 +19,14 @@ This project is a way to use to receive payment notification from the MERCADO PA
 
   GoodLuck 👍👍👍👍
   
--------------------------------------------------------------------------------
-#receber-notificação-pagamento-Mercadopago
-Este projeto é uma forma de receber notificação de pagamento do MERCADO PAGO
+
+# receber-notificação-pagamento-Mercadopago - BR!!!!!!
+ Este projeto é uma forma de receber notificação de pagamento do MERCADO PAGO
 ✌✌
+
 ## 🚀 Primeiro Passo
-    - é necessário ter domínio e hospedagem com tecnologia https, ou algum certificado tipo SSL, no meu caso usei kinghost
-    - abra uma conta no mercado pago, e na aba desenvolver adicione: sua url ipn (exemplo: https://www.seudominio.com/not.php), o mercadopago envia notificação para esta url, apenas
-    funciona se o seu domínio tiver http's
+ - é necessário ter domínio e hospedagem com tecnologia https, ou algum certificado tipo SSL, no meu caso usei kinghost
+ - abra uma conta no mercado pago, e na aba desenvolver adicione: sua url ipn (exemplo: https://www.seudominio.com/not.php), o mercadopago envia notificação para esta url, apenas funciona se o seu domínio tiver http's
     - **permitir que o desenvolvedor da conta acesse o token.**(*importante*)
 ✌✌
 ## 🚀 Segundo Passo

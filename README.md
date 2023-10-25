@@ -14,7 +14,7 @@ This project is a way to use to receive payment notification from the MERCADO PA
 ## 🚀 Third Step
   - You will need to create two files, one for notification, and another to create the payment, in my case, a create: **not.php for notificacion and  pag.php for to created custom payament.**
 ✌✌
-## 🚀 Forty Step
+## 🚀 Fourth Step
   - Copy repositorys, edit  the files with **Your Token** and receiv  the notifications in format json.
 
   GoodLuck 👍👍👍👍
